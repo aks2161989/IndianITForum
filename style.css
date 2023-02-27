@@ -1,0 +1,29 @@
+.heading {
+  margin-top: 40px;
+  text-align: center;
+}
+.postForm {
+margin: 10px;
+}
+#name{
+  margin: 5px;
+  width: 600px;
+  height: 30px;
+}
+ #category {
+  margin: 5px;
+  width: 350px;
+  height: 30px;
+}
+label {
+  font-size: 18px;
+  font-weight: bold;
+}
+button {
+  width: 150px;
+  height: 50px;
+  border-radius: 5px;
+  font-weight: bold;
+  color: white;
+  background-color: blue;
+}
