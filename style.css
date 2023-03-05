@@ -65,3 +65,15 @@ table {
 .categoryTitle, .postTitle .forTablePadding {
   border-top: dotted darkorange thin;
 }
+.container {
+  width: 400px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.login {
+  width: 100px;
+  height: 40px;
+  margin-left: 20%;
+}
