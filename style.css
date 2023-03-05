@@ -41,3 +41,27 @@ button {
 .mainPost button {
   float: right;
 }
+table {
+  border-collapse: collapse;
+  border-spacing:20px
+}
+.posts {
+  border: 1px darkorange dotted;
+  padding: 5px;
+  margin: 10px;;
+}
+
+.categoryTitle {
+  font-weight: bold;
+  font-size: 22px;
+}
+.postTitle {
+  font-weight: bold;
+  font-size: 18px;
+}
+.forTablePadding {
+  padding: 10px;
+}
+.categoryTitle, .postTitle .forTablePadding {
+  border-top: dotted darkorange thin;
+}
